@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.0b02449b.chunk.js",
-    "main.js.map": "/static/js/main.0b02449b.chunk.js.map",
+    "main.css": "/static/css/main.940bdfb3.chunk.css",
+    "main.js": "/static/js/main.cfa1faf2.chunk.js",
+    "main.js.map": "/static/js/main.cfa1faf2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a947f7d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a947f7d.js.map",
-    "static/js/2.1d1c863f.chunk.js": "/static/js/2.1d1c863f.chunk.js",
-    "static/js/2.1d1c863f.chunk.js.map": "/static/js/2.1d1c863f.chunk.js.map",
+    "static/js/2.93816839.chunk.js": "/static/js/2.93816839.chunk.js",
+    "static/js/2.93816839.chunk.js.map": "/static/js/2.93816839.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2969a0052729ca2521c8f8d6e148a1d8.js": "/precache-manifest.2969a0052729ca2521c8f8d6e148a1d8.js",
+    "precache-manifest.6080e0413715842317496bd273804294.js": "/precache-manifest.6080e0413715842317496bd273804294.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1d1c863f.chunk.js.LICENSE.txt": "/static/js/2.1d1c863f.chunk.js.LICENSE.txt"
+    "static/css/main.940bdfb3.chunk.css.map": "/static/css/main.940bdfb3.chunk.css.map",
+    "static/js/2.93816839.chunk.js.LICENSE.txt": "/static/js/2.93816839.chunk.js.LICENSE.txt",
+    "static/media/asciiart.png": "/static/media/asciiart.8c6b1c36.png",
+    "static/media/audio.png": "/static/media/audio.f35e7dd8.png",
+    "static/media/doccufy.png": "/static/media/doccufy.e55f1a84.png",
+    "static/media/entropy.png": "/static/media/entropy.73ce2e34.png",
+    "static/media/inception.png": "/static/media/inception.d7d43e70.png",
+    "static/media/numerology.png": "/static/media/numerology.8a3308b1.png",
+    "static/media/photo.png": "/static/media/photo.4fd4db2a.png",
+    "static/media/spraygunTest.png": "/static/media/spraygunTest.46c13ecc.png",
+    "static/media/video.png": "/static/media/video.66d9176e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8a947f7d.js",
-    "static/js/2.1d1c863f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b02449b.chunk.js"
+    "static/js/2.93816839.chunk.js",
+    "static/css/main.940bdfb3.chunk.css",
+    "static/js/main.cfa1faf2.chunk.js"
   ]
 }
