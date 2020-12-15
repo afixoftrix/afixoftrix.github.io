@@ -13,9 +13,9 @@ For the media player that plays my sound I used:
 ## Media Used
 
 Most of the photographs and medida used in this portfolio are mine. However, there are a few that are gotten from unsplash:
-![picture of skeletons](https://unsplash.com/photos/7oWKnt0VL8I)
-![messy desk](https://unsplash.com/photos/6jA6eVsRJ6Q)
-![inception photo](https://unsplash.com/photos/HNiOq7eg8ck)
+https://unsplash.com/photos/7oWKnt0VL8I
+https://unsplash.com/photos/6jA6eVsRJ6Q
+https://unsplash.com/photos/HNiOq7eg8ck
 
 
 
@@ -23,6 +23,7 @@ Most of the photographs and medida used in this portfolio are mine. However, the
 ## Tutorials
 
 I tried to use a tutorial to load a the react app onto github pages.
+https://dev.to/ionabrabender/creating-a-portfolio-website-using-github-pages-and-react-part-2-16e1
 
 
 
