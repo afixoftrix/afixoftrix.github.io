@@ -9,6 +9,7 @@ For routing I use `react-router` library found here: https://reactrouter.com/
 For hosting I use Surge, a free hosting platform for frontend developers: https://surge.sh/
 
 For the media player that plays my sound I used: 
+https://www.npmjs.com/package/react-audio-player
 
 ## Media Used
 
@@ -29,6 +30,10 @@ https://dev.to/ionabrabender/creating-a-portfolio-website-using-github-pages-and
 
 
 
+
+===
+_______________________
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
