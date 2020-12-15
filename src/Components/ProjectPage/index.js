@@ -2,19 +2,25 @@ import React from 'react'
 import styled from 'styled-components';
 
 const PageContainer = styled.div`
-  min-height: 100vh;
-  background: #0ae;
+  min-height: calc(100vh - 51px);
+  padding-bottom: 40px;
+`
+
+const GradientBar = styled.div`
+  height: 60px;
+  background: ${ props => props.bg };
+  margin-bottom: 24px;
 `
 
 
-export const ProjectPage = ({ picture, title, date, content}) => {
+export const ProjectPage = ({ barBg, title, date, content}) => {
   return (
     <PageContainer>
-      hi there
-      <div>{picture}</div>
-      <div>{title}</div>
-      <div>{date}</div>
+      <GradientBar bg={barBg} />
+      <div className="h4">{title}</div>
+      <div className="subtitle">{date}</div>
       <div>{content}</div>
     </PageContainer>
   );
 };
+

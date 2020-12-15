@@ -26,8 +26,9 @@ export const Studies = ({ match }) => {
   return (
     <Switch>
       {courseList.map(
-        ({path, desc, component: Component, projects, course, courseNum}) => 
+        ({path, desc, component: Component, projects, course, courseNum}, i) => 
           <Route 
+            key={i}
             path={match.url + path}
             component={() => <Component course={course} projects={projects} desc={desc} courseNum={courseNum} />}
           />

@@ -1,3 +1,33 @@
+### Unwana Essien's Portfolio
+
+## Technologies Used
+
+For this portfolio website I used [React](https://reactjs.org/) as the main technology. Using react means that I am running [Nodejs](https://nodejs.org/en/), a javascript processor for outside the browser. To be specific I use the Create-react-application boilerplate. You can find more details about this below.
+
+For routing I use `react-router` library found here: https://reactrouter.com/
+
+For hosting I use Surge, a free hosting platform for frontend developers: https://surge.sh/
+
+For the media player that plays my sound I used: 
+
+## Media Used
+
+Most of the photographs and medida used in this portfolio are mine. However, there are a few that are gotten from unsplash:
+![picture of skeletons](https://unsplash.com/photos/7oWKnt0VL8I)
+![messy desk](https://unsplash.com/photos/6jA6eVsRJ6Q)
+![inception photo](https://unsplash.com/photos/HNiOq7eg8ck)
+
+
+
+
+## Tutorials
+
+I tried to use a tutorial to load a the react app onto github pages.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

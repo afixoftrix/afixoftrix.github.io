@@ -55,6 +55,7 @@ const PCOMPHome = ({ course, courseNum, desc, projects, match }) => {
             picture={picture}
             link={match.url + link}
             num={i + 1}
+            key={i}
           />
         ))}
       </div>
