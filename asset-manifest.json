@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.32709863.chunk.css",
-    "main.js": "/static/js/main.a9157f86.chunk.js",
-    "main.js.map": "/static/js/main.a9157f86.chunk.js.map",
+    "main.js": "/static/js/main.9726e773.chunk.js",
+    "main.js.map": "/static/js/main.9726e773.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8a947f7d.js",
     "runtime-main.js.map": "/static/js/runtime-main.8a947f7d.js.map",
-    "static/js/2.0c7f4645.chunk.js": "/static/js/2.0c7f4645.chunk.js",
-    "static/js/2.0c7f4645.chunk.js.map": "/static/js/2.0c7f4645.chunk.js.map",
+    "static/js/2.a8f203a9.chunk.js": "/static/js/2.a8f203a9.chunk.js",
+    "static/js/2.a8f203a9.chunk.js.map": "/static/js/2.a8f203a9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6fb6587d8f7a7d93ee149e03f7eb5f51.js": "/precache-manifest.6fb6587d8f7a7d93ee149e03f7eb5f51.js",
+    "precache-manifest.a74e4c27ad9d510ee56706efd4f92823.js": "/precache-manifest.a74e4c27ad9d510ee56706efd4f92823.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.32709863.chunk.css.map": "/static/css/main.32709863.chunk.css.map",
-    "static/js/2.0c7f4645.chunk.js.LICENSE.txt": "/static/js/2.0c7f4645.chunk.js.LICENSE.txt",
+    "static/js/2.a8f203a9.chunk.js.LICENSE.txt": "/static/js/2.a8f203a9.chunk.js.LICENSE.txt",
     "static/media/asciiart.png": "/static/media/asciiart.8c6b1c36.png",
     "static/media/audio.png": "/static/media/audio.f35e7dd8.png",
     "static/media/bloom.png": "/static/media/bloom.e4df61c3.png",
@@ -21,7 +21,9 @@
     "static/media/eternity.png": "/static/media/eternity.6c28cbe8.png",
     "static/media/final_sound.mp3": "/static/media/final_sound.c914971d.mp3",
     "static/media/inception.png": "/static/media/inception.d7d43e70.png",
-    "static/media/numerology.png": "/static/media/numerology.8a3308b1.png",
+    "static/media/knob.png": "/static/media/knob.0fc94f3f.png",
+    "static/media/memorygame.png": "/static/media/memorygame.078a3fdd.png",
+    "static/media/numerology.png": "/static/media/numerology.fceb6484.png",
     "static/media/photo.png": "/static/media/photo.4fd4db2a.png",
     "static/media/portfolio.png": "/static/media/portfolio.e0725c48.png",
     "static/media/spray.png": "/static/media/spray.93c03413.png",
@@ -31,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a947f7d.js",
-    "static/js/2.0c7f4645.chunk.js",
+    "static/js/2.a8f203a9.chunk.js",
     "static/css/main.32709863.chunk.css",
-    "static/js/main.a9157f86.chunk.js"
+    "static/js/main.9726e773.chunk.js"
   ]
 }
