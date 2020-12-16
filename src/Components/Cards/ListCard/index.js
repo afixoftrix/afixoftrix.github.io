@@ -24,4 +24,13 @@ const ListCard = ({ title, subtitle, link }) => (
   </Link>
 );
 
+export const WorksCard = ({ title, subtitle, link }) => (
+  <a href={link} target="_blank" rel="noopener noreferrer">
+    <Container>
+      <div className="list-card-title">{title}</div>
+      <div className="list-card-subtitle">{subtitle}</div>
+    </Container>
+  </a>
+);
+
 export default ListCard;
